@@ -8,5 +8,6 @@ title: todayzip studio 앱 개인정보처리방침
 
 - [MIRRO (거울연습)](mirro/privacy)
 - [꾸벅](kkubeok/privacy)
+- [쑥쑥런](ssukrun/privacy)
 
 문의: todayzip.info@gmail.com
